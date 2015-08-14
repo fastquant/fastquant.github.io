@@ -1,0 +1,7 @@
+title: The FastQuant Foundation
+description: > 
+  It's the website for the FastQuant Foundation.
+baseurl: ""
+url: "http://www.fastquant.org"
+
+markdown: kramdown
